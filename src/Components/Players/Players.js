@@ -18,7 +18,7 @@ const Players = () => {
         }
     }
     return (
-        <div className="row" >
+        <div className="row" style={{ marginRight: "0px" }}  >
             <div className="col-md-8 col-12 " >
                 {
                     players.map(each => {
@@ -29,7 +29,7 @@ const Players = () => {
             <div className="col-md-4 col-12 " >
                 <Cart recruited={recruited} ></Cart>
             </div>
-        </div>
+        </div >
     );
 };
 
