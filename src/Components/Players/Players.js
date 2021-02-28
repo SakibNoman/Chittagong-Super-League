@@ -17,6 +17,7 @@ const Players = () => {
             setRecruited(newPlayer);
         }
     }
+
     return (
         <div className="row" style={{ marginRight: "0px" }}  >
             <div className="col-md-8 col-12 " >

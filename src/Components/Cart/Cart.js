@@ -3,7 +3,8 @@ import './Cart.css'
 
 const Cart = (props) => {
     const recruitedList = props.recruited;
-    console.log(recruitedList);
+
+    //Calculating total budget using reduce method
     const totalBudget = recruitedList.reduce((total, each) => {
         total = total + each.salary;
         return total;
