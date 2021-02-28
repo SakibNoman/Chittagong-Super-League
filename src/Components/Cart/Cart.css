@@ -1,0 +1,14 @@
+.cart{
+    background-color: #ffffff3d ;
+    margin: 15px;
+    padding: 15px;
+    width:80%;
+    border-radius: 15px;
+}
+.heading{
+    text-align: center;
+}
+table img{
+    width: 35px;
+    border-radius:50%;
+}

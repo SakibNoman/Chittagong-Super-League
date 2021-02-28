@@ -12,13 +12,14 @@ const PlayerCard = (props) => {
                     <img src={image} alt="..." />
                 </div>
                 <div className="info-box col-md-6 col-6 " >
-                    <p>{name}</p>
-                    <p><small>Salary: ${salary}</small></p>
+                    <h5>{name}</h5>
+                    <p><small>Salary: $ {salary}</small></p>
                 </div>
-                <div className="col-md-3 col-12 mt-5 mt-md-0 pr-md-0">
+                <div className="col-md-3 col-12 mt-5 mt-md-0">
                     <button className="btn btn-secondary text-white" onClick={(event) => {
-                        // event.target.innerText = "Hired"
-                        // props.handlePlayer(props.users)
+                        event.target.innerText = "Hired"
+                        event.target.style.cursor = "not-allowed"
+                        props.handlePlayer(props.player)
                     }} > <FontAwesomeIcon icon={faPlus} />  Recruit </button>
                 </div>
             </div>
