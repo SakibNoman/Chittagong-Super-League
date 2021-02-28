@@ -1,0 +1,22 @@
+.main{
+    display:flex;
+    justify-content:center;
+}
+.player-card{
+    display:flex;
+    background-color: #ffffff3d ;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    margin: 15px;
+    align-items: center;
+    padding: 15px;
+    width:80%;
+    border-radius: 15px
+}
+.player-card img {
+    border-radius: 10px;
+    width: 150px
+}
+.info-box{
+    width:60%
+}

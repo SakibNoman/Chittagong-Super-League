@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "name": "Soumya Sarkar",
+        "salary": 4376,
+        "image": "https://www.mykhel.com/thumb/240x100x225/cricket/players/0/5570.1506323939.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Tamim Iqbal",
+        "salary": 17286,
+        "image": "https://www.mykhel.com/thumb/240x100x225/cricket/players/7/3497.1506324086.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Taskin Ahmed",
+        "salary": 18302,
+        "image": "https://www.mykhel.com/thumb/240x100x225/cricket/players/3/5563.1506324115.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Glenn Maxwell",
+        "salary": 21684,
+        "image": "https://www.mykhel.com/thumb/240x100x225/cricket/players/4/4894.1505977033.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Joe Root",
+        "salary": 27321,
+        "image": "https://www.mykhel.com/thumb/240x100x225/cricket/players/1/4541.1505977657.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Mustafizur Rahman",
+        "salary": 9491,
+        "image": "https://www.mykhel.com/thumb/240x100x225/cricket/players/2/6752.1506323718.jpg"
+    },
+    {
+        "id": 7,
+        "name": "James Anderson",
+        "salary": 16938,
+        "image": "https://www.mykhel.com/thumb/240x100x225/cricket/players/5/3065.1521114427.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Moeen Ali",
+        "salary": 4438,
+        "image": "https://www.mykhel.com/thumb/240x100x225/cricket/players/2/3992.1505977708.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Ben Stokes",
+        "salary": 19232,
+        "image": "https://www.mykhel.com/thumb/240x100x225/cricket/players/9/4489.1505977460.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Trend Boult",
+        "salary": 13301,
+        "image": "https://www.mykhel.com/thumb/240x100x225/cricket/players/1/4281.1505978190.jpg"
+    },
+    {
+        "id": 11,
+        "name": "Martin Guptil",
+        "salary": 5849,
+        "image": "https://www.mykhel.com/thumb/240x100x225/cricket/players/4/4274.1505978063.jpg"
+    },
+    {
+        "id": 12,
+        "name": "Kane Williamson",
+        "salary": 29812,
+        "image": "https://www.mykhel.com/thumb/240x100x225/cricket/players/7/4637.1505978024.jpg"
+    },
+    {
+        "id": 13,
+        "name": "Tim Southee",
+        "salary": 15841,
+        "image": "https://www.mykhel.com/thumb/240x100x225/cricket/players/2/3652.1505978176.jpg"
+    },
+    {
+        "id": 14,
+        "name": "Sarfraz Ahmed",
+        "salary": 3819,
+        "image": "https://www.mykhel.com/thumb/240x100x225/cricket/players/5/3625.1506324470.jpg"
+    },
+    {
+        "id": 15,
+        "name": "Hasan Ali",
+        "salary": 24135,
+        "image": "https://www.mykhel.com/thumb/240x100x225/cricket/players/8/9598.1506324307.jpg"
+    }
+]
